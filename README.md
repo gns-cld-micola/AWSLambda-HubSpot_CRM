@@ -11,10 +11,13 @@ To recreate it on AWS:
    
    2-create "lambda_function.py" file in your lambda and paste the code in it.
 
+
 Request Body Template:
+
 {
   "email": "${input.email}"
 }
+
 
 
 Sample rersponse:
