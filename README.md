@@ -1,8 +1,8 @@
 # AWSLambda-HubSpot_CRM
 
-This AWS lambda function is used to fetch contact's related data stored in free HubSpot CRM.
-It can be used as a template to call the CRM APIs taking in consideration the data model and object names of the CRM you are working with.
-It takes a "Contact" object's email address and retrieve allk of the associated "Deals" and "Tickets" records of that Contact.
+-This AWS lambda function is used to fetch contact's related data stored in free HubSpot CRM.
+-It can be used as a template to call the CRM APIs taking in consideration the data model and object names of the CRM you are working with.
+-It takes a "Contact" object's email address and retrieve allk of the associated "Deals" and "Tickets" records of that Contact.
 Uses python runtime.
 
 To recreate it on AWS:
