@@ -15,7 +15,9 @@ To recreate it on AWS:
 Request Body Template:
 
 {
+
   "email": "${input.email}"
+  
 }
 
 
